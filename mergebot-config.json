@@ -2,5 +2,5 @@
   "ship-it": true,
   "integrate-it": false,
   "test-it": false,
-  "test-enterprise-bump": true
+  "test-enterprise": true
 }
