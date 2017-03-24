@@ -1,12 +1,14 @@
 {
-  "requires": ["exhibitor"],
-  "single_source" : {
-    "kind": "git",
+  "group": "systemd-journal",
+  "requires": [
+    "exhibitor"
+  ],
+  "single_source": {
     "git": "https://github.com/dcos/3dt.git",
-    "ref": "25cc4189d66ba20422cabf4565448312267e0f38",
+    "kind": "git",
+    "ref": "880e65e50a91377ef3ebb79ea52917e656874711",
     "ref_origin": "master"
   },
-  "username": "dcos_3dt",
-  "group": "systemd-journal",
-  "state_directory": true
+  "state_directory": true,
+  "username": "dcos_3dt"
 }
