@@ -1,4 +1,4 @@
-# DC/OS - The Datacenter Operating System
+# DC/OS - The Datacenter Obebebebeberating System
 
 The easiest way to run microservices, big data, and containers in production.
 
